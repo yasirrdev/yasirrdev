@@ -1,82 +1,40 @@
 <h1 align="center">Hi 👋, I'm Yasir</h1>
-<h3 align="center">Full Stack Developer | Next.js · React · ASP.NET Core</h3>
 
----
-
-## 🚀 About Me
-
-I'm a **Full Stack Developer** passionate about building **scalable, secure and well-structured applications**.  
-I enjoy working across the stack, from **clean and accessible UIs** to **robust backend APIs**.
-
-- 🔭 Currently focused on **Next.js, ASP.NET Core & WebSockets**
-- 🌍 Experience in **international environments (Erasmus+)**
-- 🧠 Strong believer in **clean code, best practices & continuous learning**
-- ☕ Coffee-powered developer
-
----
-
-## 📊 GitHub Stats
+###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yasirrdev&show_icons=true&include_all_commits=true&count_private=true&theme=cobalt2" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yasirrdev&layout=compact&langs_count=6&theme=cobalt2" height="150" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
 </div>
 
----
+###
 
-## 🛠️ Tech Stack
-
-### 💻 Languages
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=yasirrdev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=yasirrdev&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-### ⚙️ Frameworks & Libraries
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="32" />
-</div>
+###
 
-### 🗄️ Databases & Cloud
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="32" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yasirrdev/yasirrdev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yasirrdev/yasirrdev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yasirrdev/yasirrdev/output/pacman-contribution-graph.svg">
+</picture>
 
----
-
-## 📌 Featured Projects
-
-### 🧩 **OcaGo** – Multiplayer Online Game  
-**Next.js · ASP.NET Core · WebSockets · SQLite**
-
-- Real-time multiplayer game
-- Friend system & live invitations
-- Secure authentication & protected endpoints
-- Global state management and responsive UI
-
-### 🌍 **MoveInn** – Erasmus+ Social Network  
-**Next.js · ASP.NET Core · SQL · AWS**
-
-- JWT authentication & role-based access
-- Real-time chat and forums
-- Deployed on AWS with CI/CD pipelines
-
----
-
-## 📫 Connect With Me
-
-- 💼 [LinkedIn](https://linkedin.com/in/yasirbelmaalem)
-- 📧 yasirbelmaalem30@gmail.com
-
----
-
-⭐ If you like my work, feel free to **star** my repositories!
+###
