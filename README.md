@@ -26,12 +26,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=yasirrdev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-
-  <br/><br/>
-
-  <a href="https://github.com/oakoudad/badge42">
-    <img src="https://badge.mediaplus.ma/starryblue/ybel-maa?1337Badge=off&UM6P=off" alt="42 stats badge" />
-  </a>
 </div>
 
 ###
